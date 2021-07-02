@@ -1,12 +1,17 @@
+import { Dashboard } from "./components/Dashboard";
+import { Header } from "./components/Header";
+import { TransactionTable } from "./components/TransactionsTable";
 import { GlobalStyle } from "./styles/global";
 
 export function App() {
   return (
-    <div >
-     <h1>Helo word
+    <>
        <GlobalStyle/>
-     </h1>
-    </div>
+       <Header/>
+       <Dashboard/>
+       <TransactionTable/>
+    
+    </>
   );
 }
 
