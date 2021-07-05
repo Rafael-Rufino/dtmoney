@@ -36,8 +36,6 @@ export function TransactionTable(){
             <td>20/02/2021</td>
           </tr>
         </tbody>
-
-
       </table>
     </Container>
   )
