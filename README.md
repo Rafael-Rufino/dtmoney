@@ -1,46 +1,106 @@
-# Getting Started with Create React App
+<h3 align="center">
+    <img alt="Logo" title="#logo" width="300px" src="./.github/logo.svg">
+    <br><br>
+    <b>Dt money é uma plataforma de Financias Pessoais </b>  
+    <br>
+</h3>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+# Índice
 
-### `yarn start`
+- [Sobre](#sobre)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Conceitos Aprendido](#conceito-aprendido)
+- [Como Usar](#como-usar)
+- [Como Contribuir](#como-contribuir)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## :bookmark: Sobre
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+O <strong>Dt money</strong> é uma aplicação web voltado para controle de financias Pessoais.  
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<a id="tecnologias-utilizadas"></a>
 
-### `yarn build`
+## :rocket: Tecnologias Utilizadas
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+O projeto foi desenvolvido utilizando as seguintes tecnologias
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- [React ](https://developer.mozilla.org/pt-BR/docs/Aprender/HTML/Introducao_ao_HTML)
+- [Styled Components](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Typescript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<a id="#conceito-aprendido"></a>
 
-### `yarn eject`
+## :rocket: Conceitos Aprendidos
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+#### - TypeScript
+#### - Styled Components
+#### - Responsividade 
+#### - Hooks
+#### - Components
+#### - Props
+#### - Modal
+#### - React Hook Form
+#### - Local Storage
+#### - Contexto
+#### - Api miragejs
+## :heavy_check_mark: :iphone: Versão Mobile
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<h1 align="center">
+    <img alt="home" src="./.github/home.png" width="600px">
+    <img alt="modal" src="./.github/web2.png" width="600px">
+    
+    
+</h1>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## :heavy_check_mark: :computer: Video da Aplicação Mobile
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<h1 align="center">
+    <img alt="Web" src="./.github/video.gif" width="300px">
+</h1>
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<a id="como-usar"></a>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## :fire: Como usar
+O projeto foi desenvolvido utilizando as seguintes tecnologias
+
+1. Faça um clone :
+
+```sh
+  $ git clone https://github.com/Rafael-Rufino/dtmoney.git
+```
+
+2. Executando a Aplicação:
+
+```sh
+  # Instale as dependências
+  $ npm install 
+  ou 
+  $ Yarn
+
+  # Inicie a aplicação web
+  $ cd dtmoney/src
+  $ yarn start
+```
+
+<a id="como-contribuir"></a>
+
+
+# :recycle: Como contribuir
+
+- Faça um Fork desse repositório,
+- Crie uma branch com a sua feature: `git checkout -b my-feature`
+- Commit suas mudanças: `git commit -m 'feat: My new feature'`
+- Push a sua branch: `git push origin my-feature`
+
+
+## :memo: License
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+
+<h4 align="center">
+    Feito com 💜 by <a href="https://www.linkedin.com/in/rafael-r-dos-santos-b889311ba/" target="_blank">Rafael Rufino</a>
+</h4>
