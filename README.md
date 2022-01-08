@@ -48,8 +48,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ## :heavy_check_mark: :iphone: Versão Mobile
 
 <h1 align="center">
-    <img alt="home" src="./.github/home.png" width="600px">
-    <img alt="modal" src="./.github/web2.png" width="600px">
+    <img alt="home" src="./.github/home.png" width="900px">
+    <img alt="modal" src="./.github/web2.png" width="900px">
     
     
 </h1>
