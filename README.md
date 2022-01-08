@@ -45,19 +45,13 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 #### - Local Storage
 #### - Contexto
 #### - Api miragejs
-## :heavy_check_mark: :iphone: Versão Mobile
+## :heavy_check_mark: :iphone: Versão Web
 
 <h1 align="center">
     <img alt="home" src="./.github/home.png" width="900px">
     <img alt="modal" src="./.github/web2.png" width="900px">
     
     
-</h1>
-
-## :heavy_check_mark: :computer: Video da Aplicação Mobile
-
-<h1 align="center">
-    <img alt="Web" src="./.github/video.gif" width="300px">
 </h1>
 
 
